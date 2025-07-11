@@ -12,3 +12,5 @@ This document provides information about DEPLOYMENT.
 # Example usage
 npm start
 ```
+
+# PR Merge: 2025-10-20 - feature/merge-8552
