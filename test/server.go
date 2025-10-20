@@ -6,3 +6,5 @@ package main
 func main() {
     // TODO: implementation
 }
+
+# PR Merge: 2025-10-20 - docs/merge-5340
